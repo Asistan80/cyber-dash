@@ -1,0 +1,14 @@
+{
+  "appId": "com.seninstudyon.cyberdash",
+  "appName": "Cyber Dash",
+  "webDir": "www",
+  "backgroundColor": "#05060a",
+  "android": {
+    "backgroundColor": "#05060a"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
